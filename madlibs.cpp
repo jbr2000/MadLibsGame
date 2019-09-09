@@ -7,12 +7,12 @@ using std::cout;
 using std::string;
 using std::cin;
 
+int main()
+{
 string noun1;
 string name1;
 string profession1;
 int number1;
-int main()
-{
 cout << "Enter a noun:" << endl;
 cin >> noun1;
 cout << "Enter a first name:" << endl;
