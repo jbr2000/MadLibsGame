@@ -1,4 +1,4 @@
-//Authors: 
+//Author: Jason Rupert 
 #include <iostream>
 #include <string>
 
